@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: https://metacpan.org/release/DBI-Ext
+Source: https://metacpan.org/release/HTML-Filter-Easy
 Upstream-Contact: (information incomplete)
-Upstream-Name: DBI-Ext
+Upstream-Name: HTML-Filter-Easy
 DISCLAIMER: This copyright info was automatically extracted 
  from the perl module. It may not be accurate, so you better 
  check the module sources in order to ensure the module for its 
