@@ -1,0 +1,15 @@
+Source: libhtml-filter-easy-perl
+Section: perl
+Priority: optional
+Maintainer: Ivan Panchenko <wao@mail.ru>
+Build-Depends: debhelper (>= 9)
+Build-Depends-Indep: perl
+Standards-Version: 3.9.8
+Homepage: https://metacpan.org/release/HTML-Filter-Easy
+
+Package: libhtml-filter-easy-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}, 
+  libhtml-parser-perl liberror-perl
+Description: HTML filter OO framework
+
