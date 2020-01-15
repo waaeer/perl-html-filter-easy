@@ -1,0 +1,12 @@
+Makefile.PL
+README.md
+debian/source/format
+debian/compat
+debian/control
+debian/copyright
+debian/changelog
+debian/rules
+t/000use.t
+t/50forbidden.t
+Easy.pm
+MANIFEST
