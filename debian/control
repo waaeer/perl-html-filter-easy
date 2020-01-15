@@ -10,6 +10,6 @@ Homepage: https://metacpan.org/release/HTML-Filter-Easy
 Package: libhtml-filter-easy-perl
 Architecture: all
 Depends: ${misc:Depends}, ${perl:Depends}, 
-  libhtml-parser-perl liberror-perl
+  libhtml-parser-perl, liberror-perl
 Description: HTML filter OO framework
 
